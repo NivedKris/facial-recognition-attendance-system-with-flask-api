@@ -9,7 +9,7 @@ Faculty should first login to the system and plugin system for the student so th
 More into the system 
 
 
-1.First unzip the folder and keep the contents in a folder called 'nived'.
+1.keep the contents in a folder called 'nived'.Delete hi.txt from ImagesUnknown,TrainingImages 
 2.Open the startTheSystem folder and open the main.html file in edit mode and change the hyperlinks in the buttons according to your system path.
 3.Install the requirements.txt using pip install -r requirements.txt 
 

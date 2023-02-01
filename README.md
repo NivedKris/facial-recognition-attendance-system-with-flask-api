@@ -1,5 +1,5 @@
 # facial-recognition-attendance-system-with-flask-api
-Open the read me file in raw mode for prroper alignment of document
+Open the read me file in raw mode for proper alignment of document
 
 Allows students to poll their attendance seamlessly using their face cam and faculty to see the attendance sheet and student details
 
